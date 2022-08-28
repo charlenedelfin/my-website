@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    border: 3px solid pink;
+    padding: 30px;
+    margin: 50px;
+    background-color: pink;
+}
+
+p
+{
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
